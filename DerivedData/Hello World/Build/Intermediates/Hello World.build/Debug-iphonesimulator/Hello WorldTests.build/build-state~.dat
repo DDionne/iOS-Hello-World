@@ -1,0 +1,246 @@
+THello WorldTests
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator/Hello\ WorldTests.xctest/Info.plist /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/Hello\ WorldTests/Hello\ WorldTests-Info.plist
+cProcessPCH /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Intermediates/PrecompiledHeaders/Hello\ World-Prefix-gknqnxjcaupieghhcvczgrziiwuq/Hello\ World-Prefix.pch.pch Hello\ World/Hello\ World-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Hello\ World/Build/Intermediates/Hello\ World.build/Debug-iphonesimulator/Hello\ WorldTests.build/Objects-normal/i386/Hello_WorldTests.o /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/Hello\ WorldTests/Hello_WorldTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator/Hello\ WorldTests.xctest/Hello\ WorldTests normal i386
+cGenerateDSYMFile /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator/Hello\ WorldTests.xctest.dSYM /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator/Hello\ WorldTests.xctest/Hello\ WorldTests
+cCopyStringsFile /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator/Hello\ WorldTests.xctest/en.lproj/InfoPlist.strings Hello\ WorldTests/en.lproj/InfoPlist.strings
+cTouch /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator/Hello\ WorldTests.xctest
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/XCTest.framework/XCTest
+c00000000527CEC9400000000000256F0
+t1383918740
+s153328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c0000000052825DE50000000000000176
+t1384275429
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000527CEED500000000000003B5
+t1383919317
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000527CEEFA00000000000001A0
+t1383919354
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000527CEF0A000000000088C680
+t1383919370
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000527CEF200000000001DB9910
+t1383919392
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000527CF0A60000000000000AC9
+t1383919782
+s2761
+
+N/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello World/Build/Intermediates/Hello World.build/Debug-iphonesimulator/Hello WorldTests.build/Objects-normal/i386/Hello WorldTests.LinkFileList
+c00000000528CCE2B00000000000000D3
+t1384959531
+s211
+
+N/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello World/Build/Intermediates/Hello World.build/Debug-iphonesimulator/Hello WorldTests.build/Objects-normal/i386/Hello_WorldTests.o
+t1384959543
+s8280
+
+N/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello World/Build/Intermediates/PrecompiledHeaders/Hello World-Prefix-gknqnxjcaupieghhcvczgrziiwuq/Hello World-Prefix.pch.pch
+t1384959541
+s109872
+
+N/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello World/Build/Products/Debug-iphonesimulator/Hello WorldTests.xctest
+t1384959545
+s170
+
+N/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello World/Build/Products/Debug-iphonesimulator/Hello WorldTests.xctest.dSYM
+t2
+s0
+
+N/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello World/Build/Products/Debug-iphonesimulator/Hello WorldTests.xctest/Hello WorldTests
+t1384959545
+s10628
+
+N/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello World/Build/Products/Debug-iphonesimulator/Hello WorldTests.xctest/Info.plist
+t1384959531
+s522
+
+N/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello World/Build/Products/Debug-iphonesimulator/Hello WorldTests.xctest/en.lproj/InfoPlist.strings
+t1384959545
+s42
+
+N/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/Hello World/Hello World-Prefix.pch
+c00000000528BAFB20000000000000158
+t1384886194
+s344
+
+N/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/Hello WorldTests/Hello WorldTests-Info.plist
+c00000000528BAFB200000000000002B5
+t1384886194
+s693
+
+N/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/Hello WorldTests/Hello_WorldTests.m
+c00000000528CCD0F00000000000002A2
+t1384959247
+s674
+
+N/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/Hello WorldTests/en.lproj/InfoPlist.strings
+c00000000528BAFB2000000000000002D
+t1384886194
+s45
+
+CBuild AST from /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/Hello\ WorldTests/Hello_WorldTests.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies022949ab053db841^257a71ab053db841^---0#1#1#--18"Check dependencies36"ED42C3DA-EE1F-4A4C-9C5B-6283046E6FD9-
+
+CCompileC DerivedData/Hello\ World/Build/Intermediates/Hello\ World.build/Debug-iphonesimulator/Hello\ WorldTests.build/Objects-normal/i386/Hello_WorldTests.o /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/Hello\ WorldTests/Hello_WorldTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406652341.735357
+e406652343.052939
+r1
+xCompileC
+xDerivedData/Hello World/Build/Intermediates/Hello World.build/Debug-iphonesimulator/Hello WorldTests.build/Objects-normal/i386/Hello_WorldTests.o
+x/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/Hello WorldTests/Hello_WorldTests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/Hello WorldTests/Hello_WorldTests.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/Hello WorldTests/Hello_WorldTests.m262"CompileC DerivedData/Hello\ World/Build/Intermediates/Hello\ World.build/Debug-iphonesimulator/Hello\ WorldTests.build/Objects-normal/i386/Hello_WorldTests.o Hello\ WorldTests/Hello_WorldTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9d67bcb5053db841^ef8d0db7053db841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/Hello%20WorldTests/Hello_WorldTests.m0000000000000000^4891"CompileC DerivedData/Hello\ World/Build/Intermediates/Hello\ World.build/Debug-iphonesimulator/Hello\ WorldTests.build/Objects-normal/i386/Hello_WorldTests.o Hello\ WorldTests/Hello_WorldTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Intermediates/Hello\ World.build/Debug-iphonesimulator/Hello\ WorldTests.build/Hello\ WorldTests-generated-files.hmap -I/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Intermediates/Hello\ World.build/Debug-iphonesimulator/Hello\ WorldTests.build/Hello\ WorldTests-own-target-headers.hmap -I/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Intermediates/Hello\ World.build/Debug-iphonesimulator/Hello\ WorldTests.build/Hello\ WorldTests-all-target-headers.hmap -iquote /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Intermediates/Hello\ World.build/Debug-iphonesimulator/Hello\ WorldTests.build/Hello\ WorldTests-project-headers.hmap -I/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Intermediates/Hello\ World.build/Debug-iphonesimulator/Hello\ WorldTests.build/DerivedSources/i386 -I/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Intermediates/Hello\ World.build/Debug-iphonesimulator/Hello\ WorldTests.build/DerivedSources -F/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -include /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Intermediates/PrecompiledHeaders/Hello\ World-Prefix-gknqnxjcaupieghhcvczgrziiwuq/Hello\ World-Prefix.pch -MMD -MT dependencies -MF /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Intermediates/Hello\ World.build/Debug-iphonesimulator/Hello\ WorldTests.build/Objects-normal/i386/Hello_WorldTests.d --serialize-diagnostics /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Intermediates/Hello\ World.build/Debug-iphonesimulator/Hello\ WorldTests.build/Objects-normal/i386/Hello_WorldTests.dia -c /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/Hello\ WorldTests/Hello_WorldTests.m -o /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Intermediates/Hello\ World.build/Debug-iphonesimulator/Hello\ WorldTests.build/Objects-normal/i386/Hello_WorldTests.o36"81E5D61F-BFEA-4227-A0BC-2842352CFCAE-
+b1FD227B1-5269-44C7-B2C7-976CC8D95C75
+
+CCopyStringsFile /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator/Hello\ WorldTests.xctest/en.lproj/InfoPlist.strings Hello\ WorldTests/en.lproj/InfoPlist.strings
+s406652345.495703
+e406652345.538781
+r1
+xCopyStringsFile
+x/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello World/Build/Products/Debug-iphonesimulator/Hello WorldTests.xctest/en.lproj/InfoPlist.strings
+xHello WorldTests/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy Hello WorldTests/en.lproj/InfoPlist.strings174"CopyStringsFile DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator/Hello\ WorldTests.xctest/en.lproj/InfoPlist.strings Hello\ WorldTests/en.lproj/InfoPlist.stringsc1ff7eb9053db841^67ee89b9053db841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/Hello%20WorldTests/en.lproj/InfoPlist.strings0000000000000000^741"CopyStringsFile DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator/Hello\ WorldTests.xctest/en.lproj/InfoPlist.strings Hello\ WorldTests/en.lproj/InfoPlist.strings    cd /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator/Hello\ WorldTests.xctest/en.lproj -- Hello\ WorldTests/en.lproj/InfoPlist.strings36"38B0C317-9BCF-4AF6-89BD-F8A1A113EE5F-
+b1FD227B1-5269-44C7-B2C7-976CC8D95C75
+
+CGenerateDSYMFile /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator/Hello\ WorldTests.xctest.dSYM /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator/Hello\ WorldTests.xctest/Hello\ WorldTests
+s406652345.210578
+e406652345.494766
+r1
+xGenerateDSYMFile
+x/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello World/Build/Products/Debug-iphonesimulator/Hello WorldTests.xctest.dSYM
+x/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello World/Build/Products/Debug-iphonesimulator/Hello WorldTests.xctest/Hello WorldTests
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection163"Generate /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello World/Build/Products/Debug-iphonesimulator/Hello WorldTests.xctest.dSYM213"GenerateDSYMFile DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator/Hello\ WorldTests.xctest.dSYM DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator/Hello\ WorldTests.xctest/Hello\ WorldTestscafa35b9053db841^c5a97eb9053db841^---0#0#1#-19%DVTDocumentLocation2@165"file:///Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello%20World/Build/Products/Debug-iphonesimulator/Hello%20WorldTests.xctest.dSYM0034006adeffdf42^911"GenerateDSYMFile DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator/Hello\ WorldTests.xctest.dSYM DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator/Hello\ WorldTests.xctest/Hello\ WorldTests    cd /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator/Hello\ WorldTests.xctest/Hello\ WorldTests -o /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator/Hello\ WorldTests.xctest.dSYM36"9C21AE7D-9F37-46ED-8BB1-88F8D5F37EDA-
+b1FD227B1-5269-44C7-B2C7-976CC8D95C75
+
+CLd /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator/Hello\ WorldTests.xctest/Hello\ WorldTests normal i386
+s406652343.174935
+e406652345.209446
+r1
+xLd
+x/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello World/Build/Products/Debug-iphonesimulator/Hello WorldTests.xctest/Hello WorldTests
+xnormal
+xi386
+d/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello World/Build/Intermediates/Hello World.build/Debug-iphonesimulator/Hello WorldTests.build/Objects-normal/i386/Hello WorldTests.LinkFileList
+d/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello World/Build/Products/Debug-iphonesimulator/Hello World.app/Hello World
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/bundle1.o
+d/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello World/Build/Intermediates/Hello World.build/Debug-iphonesimulator/Hello WorldTests.build/Objects-normal/i386/Hello_WorldTests.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/XCTest.framework/XCTest
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection171"Link /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello World/Build/Products/Debug-iphonesimulator/Hello WorldTests.xctest/Hello WorldTests119"Ld DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator/Hello\ WorldTests.xctest/Hello\ WorldTests normal i38659df2cb7053db841^3c9f35b9053db841^---0#0#1#--2258"Ld DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator/Hello\ WorldTests.xctest/Hello\ WorldTests normal i386    cd /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator -F/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -filelist /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Intermediates/Hello\ World.build/Debug-iphonesimulator/Hello\ WorldTests.build/Objects-normal/i386/Hello\ WorldTests.LinkFileList -bundle_loader /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator/Hello\ World.app/Hello\ World -Xlinker -objc_abi_version -Xlinker 2 -framework XCTest -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework XCTest -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Intermediates/Hello\ World.build/Debug-iphonesimulator/Hello\ WorldTests.build/Objects-normal/i386/Hello\ WorldTests_dependency_info.dat -o /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator/Hello\ WorldTests.xctest/Hello\ WorldTests36"3FCE5B30-2828-4827-8F72-5F16DA902EA4-
+b1FD227B1-5269-44C7-B2C7-976CC8D95C75
+
+CProcessInfoPlistFile /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator/Hello\ WorldTests.xctest/Info.plist /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/Hello\ WorldTests/Hello\ WorldTests-Info.plist
+s406652331.444103
+e406652331.472120
+r1
+xProcessInfoPlistFile
+x/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello World/Build/Products/Debug-iphonesimulator/Hello WorldTests.xctest/Info.plist
+x/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/Hello WorldTests/Hello WorldTests-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Process /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/Hello WorldTests/Hello WorldTests-Info.plist165"ProcessInfoPlistFile DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator/Hello\ WorldTests.xctest/Info.plist Hello\ WorldTests/Hello\ WorldTests-Info.plist87c071ab053db841^b5dd78ab053db841^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/Hello%20WorldTests/Hello%20WorldTests-Info.plist0000000000000000^802"ProcessInfoPlistFile DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator/Hello\ WorldTests.xctest/Info.plist Hello\ WorldTests/Hello\ WorldTests-Info.plist    cd /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/Hello\ WorldTests/Hello\ WorldTests-Info.plist -expandbuildsettings -format binary -platform iphonesimulator -o /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator/Hello\ WorldTests.xctest/Info.plist36"1C29EFD3-46D6-48BC-89A6-C3934976E4FF-
+b1FD227B1-5269-44C7-B2C7-976CC8D95C75
+
+CProcessPCH /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Intermediates/PrecompiledHeaders/Hello\ World-Prefix-gknqnxjcaupieghhcvczgrziiwuq/Hello\ World-Prefix.pch.pch Hello\ World/Hello\ World-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406652331.516929
+e406652341.732045
+r1
+xProcessPCH
+x/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello World/Build/Intermediates/PrecompiledHeaders/Hello World-Prefix-gknqnxjcaupieghhcvczgrziiwuq/Hello World-Prefix.pch.pch
+xHello World/Hello World-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/Hello World/Hello World-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile Hello World/Hello World-Prefix.pch256"ProcessPCH DerivedData/Hello\ World/Build/Intermediates/PrecompiledHeaders/Hello\ World-Prefix-gknqnxjcaupieghhcvczgrziiwuq/Hello\ World-Prefix.pch.pch Hello\ World/Hello\ World-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler888384ab053db841^e068bbb5053db841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/Hello%20World/Hello%20World-Prefix.pch0000000000000000^4653"ProcessPCH DerivedData/Hello\ World/Build/Intermediates/PrecompiledHeaders/Hello\ World-Prefix-gknqnxjcaupieghhcvczgrziiwuq/Hello\ World-Prefix.pch.pch Hello\ World/Hello\ World-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Intermediates/Hello\ World.build/Debug-iphonesimulator/Hello\ WorldTests.build/Hello\ WorldTests-generated-files.hmap -I/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Intermediates/Hello\ World.build/Debug-iphonesimulator/Hello\ WorldTests.build/Hello\ WorldTests-own-target-headers.hmap -I/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Intermediates/Hello\ World.build/Debug-iphonesimulator/Hello\ WorldTests.build/Hello\ WorldTests-all-target-headers.hmap -iquote /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Intermediates/Hello\ World.build/Debug-iphonesimulator/Hello\ WorldTests.build/Hello\ WorldTests-project-headers.hmap -I/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Intermediates/Hello\ World.build/Debug-iphonesimulator/Hello\ WorldTests.build/DerivedSources/i386 -I/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Intermediates/Hello\ World.build/Debug-iphonesimulator/Hello\ WorldTests.build/DerivedSources -F/Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks --serialize-diagnostics /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Intermediates/PrecompiledHeaders/Hello\ World-Prefix-gknqnxjcaupieghhcvczgrziiwuq/Hello\ World-Prefix.pch.dia -MMD -MT dependencies -MF /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Intermediates/PrecompiledHeaders/Hello\ World-Prefix-gknqnxjcaupieghhcvczgrziiwuq/Hello\ World-Prefix.pch.d -c /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/Hello\ World/Hello\ World-Prefix.pch -o /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Intermediates/PrecompiledHeaders/Hello\ World-Prefix-gknqnxjcaupieghhcvczgrziiwuq/Hello\ World-Prefix.pch.pch36"FA99F929-5402-48DE-9F5A-D06A44F87165-
+b1FD227B1-5269-44C7-B2C7-976CC8D95C75
+
+CProcessPCH /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Index/PrecompiledHeaders/Hello\ World-Prefix-fdpzwjnexxlzgwgmgbttdgzrkzuk_ast/Hello\ World-Prefix.pch.pch Hello\ World/Hello\ World-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/iphonedevelopment/Documents/HelloWorldApp/iOS-Hello-World/DerivedData/Hello\ World/Build/Products/Debug-iphonesimulator/Hello\ WorldTests.xctest
+r0
+
